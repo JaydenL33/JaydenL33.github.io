@@ -100,7 +100,6 @@ We may update this policy to reflect changes in business practices or legal requ
 
 For questions or concerns about this Privacy Policy, contact:
 BloorRail
-[Insert BloorRail Contact Email or Address]
-[Optional: Phone Number]
+ios_dev@bloorrail.com.au
 
 This policy complies with the Australian Privacy Act 1988 and is tailored for internal use by BloorRail employees.
